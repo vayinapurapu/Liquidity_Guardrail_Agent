@@ -1,4 +1,4 @@
-# 🏦 FinFlow — AI-Powered Treasury Aggregation Agent
+# 🏦 FinFlow — AI-Powered Liquidity Guardrail Agent
 
 > **Agent Academy Hackathon 2026** — Automated financial statement aggregation with breach detection, powered by Azure Functions and Microsoft 365 Copilot.
 
